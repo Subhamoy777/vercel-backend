@@ -1,0 +1,8 @@
+{
+  "name": "miu-apology-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "cors": "latest", "dotenv": "latest", "express": "latest", "mongoose": "latest" }
+}
